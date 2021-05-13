@@ -1,0 +1,47 @@
+worksheet 6
+SQL
+1. option a,c,d
+2. option a,c,d
+3. option b
+4. option c
+5. option b
+6. option b
+7. option a
+8. option c
+9. option d
+10. option a
+
+11. 
+Denormalization is a database optimization technique in which we add redundant data to one or more tables. This can help us avoid costly joins in a relational database. 
+Note that denormalization does not mean not doing normalization. It is an optimization technique that is applied after doing normalization.
+
+12.
+A database cursor can be thought of as a pointer to a specific row within a query result.  The pointer can be moved from one row to the next.  
+Depending on the type of cursor, you may be even able to move it to the previous row.
+
+Think of it this way: a SQL result is like a bag, you get to hold a whole bunch of rows at once, but not any of them individually; 
+whereas, a cursor is like a pair of tweezers. With it, you can reach into the bag and grab a row, and then move onto the next.
+
+13.
+Types of SQL Statements
+The lists in the following sections provide a functional summary of SQL statements and are divided into these categories:
+
+Data Definition Language (DDL) Statements
+
+Data Manipulation Language (DML) Statements
+
+Transaction Control Statements
+
+Session Control Statements
+
+System Control Statement
+
+Embedded SQL Statements
+
+14. 
+SQL constraints are used to specify rules for the data in a table.
+Constraints are used to limit the type of data that can go into a table. This ensures the accuracy and reliability of the data in the table.
+
+15.
+Auto-increment allows a unique number to be generated automatically when a new record is inserted into a table. 
+Often this is the primary key field that we would like to be created automatically every time a new record is inserted.

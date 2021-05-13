@@ -1,0 +1,74 @@
+worksheet 6
+statistics
+1. option d
+2. option c
+3. option a
+4. option c
+5. option a
+6. option a
+7. option c
+8. option b
+9. option b
+
+10.
+Histograms and box plots are graphical representations for the frequency of numeric data values.
+Histograms are preferred to determine the underlying probability distribution of a data. 
+Box plots on the other hand are more useful when comparing between several data sets.
+
+11.
+Choosing the right statistics — metrics that will allow you to understand, track, and manage the cause-and-effect relationships that determine the value of your company — is a four-step process.
+Step 1: Define your governing objective. A clear objective is essential to business success because it guides the allocation of capital. 
+Creating economic value is a logical governing objective for a company that operates in a free market system. 
+Companies may choose a different objective, such as maximizing the firm’s longevity. We will assume that the retail bank seeks to create economic value.
+
+Step 2: Develop a theory of cause and effect to assess presumed drivers of the objective. The three commonly cited financial drivers of value creation are sales, costs, and investments.
+
+Step 3: Identify the specific activities that employees can do to help achieve the governing objective. The goal is to make the link between your objective and the measures that employees can control through the application of skill. 
+The relationship between these activities and the objective must also be persistent and predictive.
+More-specific financial drivers vary among companies and can include earnings growth, cash flow growth, and return on invested capital.
+
+Step 4: Evaluate your statistics. Finally, you must regularly reevaluate the measures you are using to link employee activities with the governing objective. The drivers of value change over time, and so must your statistics. 
+For example, the demographics of the retail bank’s customer base are changing, so the bank needs to review the drivers of customer satisfaction. As the customer base becomes younger and more digitally savvy, 
+teller turnover becomes less relevant and the bank’s online interface and customer service become more so.
+
+12.
+Statistical significance refers to the likelihood that a relationship between two or more variables is not caused by random chance. In essence, it's a way of proving the reliability of a certain statistic. 
+Its two main components are sample size and effect size. In the use of statistical hypothesis testing, a data set's result can be deemed statistically significant if you have reached a certain level of confidence in the result. 
+In statistical hypothesis testing, this means the hypothesis is unlikely to have occurred given the null hypothesis. According to a null hypothesis, there is no relationship between the variables in question.
+
+Calculating the statistical significance is rather extensive if you calculate it by hand and this is why it's typically calculated using a calculator. When you calculate it by hand, however, it will help you more fully understand the concept.
+Here are the steps for calculating statistical significance:
+
+Create a null hypothesis.
+Create an alternative hypothesis.
+Determine the significance level.
+Decide on the type of test you'll use.
+Perform a power analysis to find out your sample size.
+Calculate the standard deviation.
+Use the standard error formula.
+Determine the t-score.
+Find the degrees of freedom.
+Use a t-table.
+
+13.
+There are many data types that follow a non-normal distribution by nature. Examples include: Weibull distribution, found with life data such as survival times of a product. 
+Log-normal distribution, found with length data such as heights.
+
+14.
+When you have a symmetrical distribution for continuous data, the mean, median, and mode are equal. 
+In this case, analysts tend to use the mean because it includes all of the data in the calculations. However, if you have a skewed distribution, 
+the median is often the best measure of central tendency.
+
+When you have ordinal data, the median or mode is usually the best choice. 
+For categorical data, you have to use the mode.
+In cases where you are deciding between the mean and median as the better measure of central tendency, 
+you are also determining which types of statistical hypothesis tests are appropriate for your data—if that is your ultimate goal.
+
+15.
+In statistics, the likelihood function (often simply called the likelihood) measures the goodness of fit of a statistical model to a sample of data for given values of the unknown parameters. 
+It is formed from the joint probability distribution of the sample, 
+but viewed and used as a function of the parameters only, thus treating the random variables as fixed at the observed values.
+
+The likelihood function describes a hypersurface whose peak, if it exists, represents the combination of model parameter values that maximize the probability of drawing the sample obtained.
+The procedure for obtaining these arguments of the maximum of the likelihood function is known as maximum likelihood estimation, which for computational convenience is usually done using the natural logarithm of the likelihood, 
+known as the log-likelihood function. Additionally, the shape and curvature of the likelihood surface represent information about the stability of the estimates, which is why the likelihood function is often plotted as part of a statistical analysis.

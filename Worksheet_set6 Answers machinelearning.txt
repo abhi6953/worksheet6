@@ -1,0 +1,48 @@
+Worksheet 6
+machine learning
+1. option b
+2. option b
+3. option c
+4. option c
+5. option b
+6. option a,d
+7. option b,c
+8. option a,c
+9. option a,b
+10.
+The adjusted R-squared is a modified version of R-squared that has been adjusted for the number of predictors in the model. 
+The adjusted R-squared increases only if the new term improves the model more than would be expected by chance. 
+It decreases when a predictor improves the model by less than expected by chance.
+The adjusted R-squared compensates for the addition of variables and only increases if the new predictor enhances the model above what would be obtained by probability. 
+Conversely, it will decrease when a predictor improves the model less than what is predicted by chance.
+
+11.
+Lasso regression stands for Least Absolute Shrinkage and Selection Operator. It adds penalty term to the cost function.
+The difference between ridge and lasso regression is that it tends to make coefficients to absolute zero as compared to Ridge which never sets the value of coefficient to absolute zero.
+
+12. 
+Variance inflation factor (VIF) is a measure of the amount of multicollinearity in a set of multiple regression variables. 
+Mathematically, the VIF for a regression model variable is equal to the ratio of the overall model variance to the variance of a model that includes only that single independent variable.
+
+In genral,VIF above 10 indicates high correlation and is cause for concern. Some authors suggest a more conservative level of 2.5 or above. Sometimes a high VIF is no cause for concern at all.
+For example, you can get a high VIF by including products or powers from other variables in your regression.
+
+13.
+To ensure that the gradient descent moves smoothly towards the minima and that the steps for gradient descent are updated at the same rate for all the features, we scale the data before feeding it to the model. 
+Having features on a similar scale can help the gradient descent converge more quickly towards the minima.
+
+14.
+Five metrics give us some hints about the goodness-of-fit of our model. The first two metrics, the Mean Absolute Error and the Root Mean Squared Error (also called Standard Error of the Regression), 
+have the same unit as the original data. In fact, given ŷ the prediction, y the actual value and n the size of the sample.
+These metrics can be used to compare models having the error e measured in the same units. MAE is simpler to understand, since it describes the average error. RMSE is not as intuitive as the other metric. It should be used when large errors are not allowed, because they are squared and then averaged.
+Both these metrics can range from 0 to ∞.
+
+15. 
+for accuracy score the formula is TP+TN/(TP+FP+FN+TN)=1000+1200/(1000+250+50+1200)
+=0.88 IS THE ACCURACY SCORE
+for Sensivity or recall value the formula is TP/TP+FN=1000/1000+50
+=0.9523 IS THE SENSIVITY VALUE.
+for specificity value the formula is TN/TN+FP=1500/1500+250
+=0.8571 IS THE SPECIFICITY VALUE.
+for precision value the formula is TP/TP+FP=1000/1000+250
+=0.8 IS THE PRECISION VALUE.
